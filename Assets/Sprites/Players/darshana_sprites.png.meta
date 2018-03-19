@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: ddf2180361710834bb9dbfe69c642775
+timeCreated: 1461967826
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: darshana_sprites_0
+    21300002: darshana_sprites_1
+    21300004: darshana_sprites_2
+    21300006: darshana_sprites_3
+    21300008: darshana_sprites_4
+    21300010: darshana_sprites_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: darshana_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -115.5}
+        - {x: 98, y: -34.5}
+        - {x: 95, y: -13.5}
+        - {x: 71, y: 28.5}
+        - {x: 88, y: 117.5}
+        - {x: 60, y: 161.5}
+        - {x: -35, y: 161.5}
+        - {x: -88, y: 101.5}
+        - {x: -92, y: 54.5}
+        - {x: -92, y: -112.5}
+        - {x: -58, y: -135.5}
+        - {x: -92, y: -205.5}
+        - {x: -92, y: -213.5}
+        - {x: -81, y: -215.5}
+        - {x: -41, y: -215.5}
+        - {x: -21, y: -213.5}
+        - {x: -11, y: -192.5}
+        - {x: 5, y: -215.5}
+        - {x: 38, y: -215.5}
+        - {x: 57, y: -207.5}
+        - {x: 59, y: -175.5}
+        - {x: 95, y: -124.5}
+    - name: darshana_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.20001, y: -202.5}
+        - {x: 67.20001, y: -179.5}
+        - {x: 92.20001, y: -125.5}
+        - {x: 92.20001, y: -62.5}
+        - {x: 78.20001, y: -4.5}
+        - {x: 92.20001, y: 111.5}
+        - {x: 92.20001, y: 127.5}
+        - {x: 57.200012, y: 160.5}
+        - {x: 52.200012, y: 164.5}
+        - {x: -60.799988, y: 164.5}
+        - {x: -87.79999, y: 41.5}
+        - {x: -62.799988, y: -45.5}
+        - {x: -85.79999, y: -125.5}
+        - {x: -89.79999, y: -162.5}
+        - {x: -89.79999, y: -213.5}
+        - {x: -73.79999, y: -218.5}
+        - {x: -49.799988, y: -218.5}
+        - {x: -42.799988, y: -216.5}
+        - {x: 15.200012, y: -209.5}
+        - {x: 26.200012, y: -216.5}
+        - {x: 62.200012, y: -212.5}
+    - name: darshana_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.400024, y: 126.5}
+        - {x: 50.400024, y: 164.5}
+        - {x: 39.400024, y: 168.5}
+        - {x: -33.599976, y: 168.5}
+        - {x: -70.599976, y: 143.5}
+        - {x: -75.599976, y: 115.5}
+        - {x: -75.599976, y: 53.5}
+        - {x: -55.599976, y: 12.5}
+        - {x: -36.599976, y: -74.5}
+        - {x: -52.599976, y: -136.5}
+        - {x: -19.599976, y: -217.5}
+        - {x: 27.400024, y: -217.5}
+        - {x: 54.400024, y: -162.5}
+        - {x: 35.400024, y: -94.5}
+        - {x: 74.400024, y: 70.5}
+    - name: darshana_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.60004, y: 64.5}
+        - {x: 77.60004, y: 98.5}
+        - {x: 77.60004, y: 126.5}
+        - {x: 51.600037, y: 166.5}
+        - {x: 46.600037, y: 167.5}
+        - {x: -27.399963, y: 167.5}
+        - {x: -58.399963, y: 160.5}
+        - {x: -84.39996, y: 75.5}
+        - {x: -69.39996, y: 22.5}
+        - {x: -53.399963, y: -77.5}
+        - {x: -86.39996, y: -197.5}
+        - {x: -86.39996, y: -211.5}
+        - {x: -59.399963, y: -216.5}
+        - {x: -25.399963, y: -213.5}
+        - {x: -0.39996338, y: -219.5}
+        - {x: 66.60004, y: -219.5}
+        - {x: 77.60004, y: -213.5}
+        - {x: 77.60004, y: -59.5}
+        - {x: 53.600037, y: 5.5}
+    - name: darshana_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.80005, y: 1.5}
+        - {x: 69.80005, y: 128.5}
+        - {x: 44.80005, y: 157.5}
+        - {x: -48.19995, y: 157.5}
+        - {x: -68.19995, y: 113.5}
+        - {x: -69.19995, y: 106.5}
+        - {x: -69.19995, y: 37.5}
+        - {x: -32.19995, y: -19.5}
+        - {x: -58.19995, y: -119.5}
+        - {x: -43.19995, y: -203.5}
+        - {x: -31.199951, y: -215.5}
+        - {x: 31.800049, y: -215.5}
+        - {x: 51.80005, y: -163.5}
+        - {x: 65.80005, y: -108.5}
+        - {x: 67.80005, y: -8.5}
+    - name: darshana_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.20007, y: 7.5}
+        - {x: 98.20007, y: 124.5}
+        - {x: 108.20007, y: 160.5}
+        - {x: 108.20007, y: 188.5}
+        - {x: 82.20007, y: 204.5}
+        - {x: 36.200073, y: 204.5}
+        - {x: -6.7999268, y: 187.5}
+        - {x: -62.799927, y: 180.5}
+        - {x: -71.79993, y: 171.5}
+        - {x: -63.799927, y: -41.5}
+        - {x: -94.79993, y: -72.5}
+        - {x: -94.79993, y: -113.5}
+        - {x: -75.79993, y: -181.5}
+        - {x: -31.799927, y: -163.5}
+        - {x: -21.799927, y: -106.5}
+        - {x: -14.799927, y: -199.5}
+        - {x: -6.7999268, y: -201.5}
+        - {x: 29.200073, y: -201.5}
+        - {x: 46.200073, y: -185.5}
+        - {x: 58.200073, y: -105.5}
+        - {x: 59.200073, y: -54.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

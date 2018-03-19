@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Floor
+  - Event
+  - Follower
+  - Inventory Button
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entity
+  - Environment
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg_mid
+  - bg_far
+  - bg
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 2051913771
+    locked: 0
+  - name: bg_far
+    uniqueID: 3111540767
+    locked: 0
+  - name: bg_med
+    uniqueID: 316310215
+    locked: 0
+  - name: bg_close
+    uniqueID: 1201838867
+    locked: 0
+  - name: bg_walkway_features
+    uniqueID: 546163669
+    locked: 0
+  - name: bg_walkway
+    uniqueID: 1046138961
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
